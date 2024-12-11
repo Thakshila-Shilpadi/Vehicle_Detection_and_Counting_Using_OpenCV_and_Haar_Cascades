@@ -43,7 +43,7 @@ Read video frames, process each one, and save the resulting video with detected 
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/vehicle-detection-and-counting.git
+git clone https://github.com/thakshilashilpadi/vehicle-detection-and-counting.git
 cd vehicle-detection-and-counting
 
 2. Install the required libraries:
